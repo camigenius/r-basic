@@ -9,6 +9,8 @@
 10%%8 # residuo
 10%/%8 # parte entera
 10/8
+# esto es un comentario
+
 
 
 
